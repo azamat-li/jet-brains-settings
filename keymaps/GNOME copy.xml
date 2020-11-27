@@ -1,4 +1,8 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="alt f4" />
   </action>
