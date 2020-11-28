@@ -6,4 +6,10 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="alt f4" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt kp_down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt kp_up" />
+  </action>
 </keymap>
