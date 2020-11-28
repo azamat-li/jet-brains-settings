@@ -12,4 +12,7 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt kp_up" />
   </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
 </keymap>
