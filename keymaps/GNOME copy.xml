@@ -46,6 +46,10 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="alt f4" />
   </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift alt insert" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="Git.Commit.And.Push.Executor">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
     <keyboard-shortcut first-keystroke="shift alt k" />
