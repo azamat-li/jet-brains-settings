@@ -46,13 +46,23 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="alt f4" />
   </action>
-  <action id="EditorToggleColumnMode">
-    <keyboard-shortcut first-keystroke="shift alt insert" />
-    <keyboard-shortcut first-keystroke="alt i" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="shift alt 3" />
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="Git.Commit.And.Push.Executor">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
     <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt kp_down" />
@@ -60,17 +70,15 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt kp_up" />
   </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt back_quote" />
     <keyboard-shortcut first-keystroke="alt number_sign" />
-  </action>
-  <action id="WrapTagAction">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
-  <action id="WrapTagContentsAction">
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
 </keymap>
