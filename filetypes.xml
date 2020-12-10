@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="index" type="AUTO_DETECTED" />
+      <mapping pattern="index.blade.php" type="AUTO_DETECTED" />
+      <mapping pattern="metalproducts/index" type="AUTO_DETECTED" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
