@@ -59,6 +59,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt k" />
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
+  <action id="Git.Stage.Add.All">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
