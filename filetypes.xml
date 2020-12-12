@@ -4,7 +4,6 @@
       <mapping pattern="index" type="AUTO_DETECTED" />
       <mapping pattern="index.blade.php" type="AUTO_DETECTED" />
       <mapping pattern="metalproducts/index" type="AUTO_DETECTED" />
-      <mapping pattern=".vercelignore" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
