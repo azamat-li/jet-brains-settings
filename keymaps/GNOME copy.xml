@@ -83,4 +83,10 @@
     <keyboard-shortcut first-keystroke="alt back_quote" />
     <keyboard-shortcut first-keystroke="alt number_sign" />
   </action>
+  <action id="WrapTagAction">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="XMLRefactoringMenu">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
 </keymap>
