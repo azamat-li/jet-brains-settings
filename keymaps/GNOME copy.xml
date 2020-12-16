@@ -1,4 +1,7 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="$SearchWeb">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="ActivateCommitToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
     <keyboard-shortcut first-keystroke="alt asterisk" />
@@ -48,6 +51,9 @@
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="alt f4" />
+  </action>
+  <action id="Editor SearchWeb">
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
