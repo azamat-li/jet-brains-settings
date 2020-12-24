@@ -1,5 +1,5 @@
 <templateSet group="Testing">
-  <template name="tt" value="/** @test */" description="adds @test annotation" toReformat="false" toShortenFQNames="true">
+  <template name="tt" value="/** @test */&#10;public function ()&#10;{&#10;&#10;}&#10;" description="adds @test" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
