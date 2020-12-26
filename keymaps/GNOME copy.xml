@@ -52,6 +52,9 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="alt f4" />
   </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
