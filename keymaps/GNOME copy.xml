@@ -85,6 +85,10 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
