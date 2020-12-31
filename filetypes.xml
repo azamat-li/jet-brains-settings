@@ -5,6 +5,7 @@
       <mapping pattern="index.blade.php" type="AUTO_DETECTED" />
       <mapping pattern="metalproducts/index" type="AUTO_DETECTED" />
       <mapping ext="mp4" type="Native" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
